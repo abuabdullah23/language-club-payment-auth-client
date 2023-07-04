@@ -1,0 +1,7 @@
+.bg-payment {
+    background-image: url(../../../../assets/images/PaymentBanner/payment-banner.png);
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0px 0px 0px;
+    border-radius: 8px;
+}

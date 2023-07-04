@@ -1,0 +1,10 @@
+.active {
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: underline 2px rgb(51, 51, 51);
+}
+
+.deActive:hover {
+    color: rgb(0, 0, 0);
+}
